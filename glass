@@ -1,0 +1,10 @@
+<img src="https://cdn.habitat.fr/thumbnails/product/893/893165/box/600/600/40/big-glass-transparent_893165.jpg" alt="big.glass" class="center">
+
+<style>
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+</style>
